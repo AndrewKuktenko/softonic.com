@@ -297,6 +297,12 @@ ol, ul
     font-family: "Open Sans Condensed","Arial Narrow",Tahoma,sans-serif;
     margin-bottom: 2px;
 }
+.hidden-block .ct-application .header-site-main-sections-item:hover,
+.hidden-block .ct-games .header-site-main-sections-item:hover,
+.hidden-block .ct-videos .header-site-main-sections-item:hover,
+.hidden-block .ct-articles .header-site-main-sections-item:hover {
+    background-color: inherit;
+}
 
 .cu-choice img, .cu-featured img {
     display: block;
