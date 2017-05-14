@@ -402,11 +402,26 @@ ol, ul
 	overflow: hidden;
 }
 
+.news_name_section
+{
+    margin-top: 0px !important;
+}
+
+.news_name_section>span
+{
+    float: left;
+    padding: 15px 15px 15px 15px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.news_name_section,
 .show_banner_leaderboard {
     min-height: 100px;
     padding: .3rem 0rem;
 }
 
+.news_name_section-center,
 .banner-center {
     display: table;
     margin-right: auto;
@@ -414,6 +429,7 @@ ol, ul
     text-align: center;
 }
 
+.news_name_section-center,
 .banner-center, .banner {
     width: 100%;
     text-align: center;
