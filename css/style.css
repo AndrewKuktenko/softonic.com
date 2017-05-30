@@ -407,7 +407,7 @@ ol, ul
     margin-top: 0px !important;
 }
 
-.news_name_section>span
+.news_name_section h3
 {
     float: left;
     padding: 15px 15px 15px 15px;
@@ -1272,6 +1272,6 @@ ol, ul
 {
 	.search-box-input
 	{
-		width: 270px;
+		width: 240px;
 	}
 }
