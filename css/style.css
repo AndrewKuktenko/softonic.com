@@ -19,6 +19,7 @@ body
 
 .cu-choice-placeholder {
     background-color: #919794;
+    overflow: hidden;
 }
 
 nav a:hover
